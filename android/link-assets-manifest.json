@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "AssisalOliveNotesSrc/AssisalOliveNotesAssets/AssisalOliveNotesFonts/Manrope-Light.ttf",
+      "sha1": "27d7897032dc0615ace6c53fd292107ae53280e5"
+    },
+    {
+      "path": "AssisalOliveNotesSrc/AssisalOliveNotesAssets/AssisalOliveNotesFonts/Manrope-Medium.ttf",
+      "sha1": "b5e2c6265e0919163142bb8eac9b6450fb91f920"
+    },
+    {
+      "path": "AssisalOliveNotesSrc/AssisalOliveNotesAssets/AssisalOliveNotesFonts/Manrope-Regular.ttf",
+      "sha1": "3f36e4904a42d23273ac346047c1b6bcf067ccfc"
+    },
+    {
+      "path": "AssisalOliveNotesSrc/AssisalOliveNotesAssets/AssisalOliveNotesFonts/Manrope-SemiBold.ttf",
+      "sha1": "f7a023cd6c102b2ffa8bf729579552445970d62d"
+    },
+    {
+      "path": "AssisalOliveNotesSrc/AssisalOliveNotesAssets/AssisalOliveNotesFonts/Roboto-Bold.ttf",
+      "sha1": "508c35dee818addce6cc6d1fb6e42f039da5a7cf"
+    },
+    {
+      "path": "AssisalOliveNotesSrc/AssisalOliveNotesAssets/AssisalOliveNotesFonts/SFProText-Regular.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    },
+    {
+      "path": "AssisalOliveNotesSrc/AssisalOliveNotesAssets/AssisalOliveNotesFonts/SFProText-Semibold.ttf",
+      "sha1": "9560ae412d73c7c9af72333db50464b4e597b0f9"
+    }
+  ]
+}
